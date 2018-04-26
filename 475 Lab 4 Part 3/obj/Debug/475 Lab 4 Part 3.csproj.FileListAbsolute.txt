@@ -1,0 +1,34 @@
+c:\users\siashim\documents\visual studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe.config
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\SchoolDB.mdf
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\SchoolDB_log.ldf
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.pdb
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\EntityFramework.dll
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\EntityFramework.xml
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.csprojResolveAssemblyReference.cache
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.exe
+C:\Users\Siashim\Documents\Visual Studio 2013\Projects\475 Lab 4 Part 3\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.pdb
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe.config
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.exe
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.pdb
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\SchoolDB.mdf
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\SchoolDB_log.ldf
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.pdb
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\bin\Debug\EntityFramework.xml
+C:\cecs475sum15\lab4\475 Lab 4 All Parts\475 Lab 4 Part 3\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.csprojResolveAssemblyReference.cache
+C:\cecs475sum15\lab4\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe.config
+C:\cecs475sum15\lab4\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.exe
+C:\cecs475sum15\lab4\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.pdb
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\bin\Debug\SchoolDB.mdf
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\bin\Debug\SchoolDB_log.ldf
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe.config
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.exe
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\bin\Debug\475 Lab 4 Part 3.pdb
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.csproj.CoreCompileInputs.cache
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.csproj.CopyComplete
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.exe
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.pdb
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\obj\Debug\475 Lab 4 Part 3.csprojResolveAssemblyReference.cache

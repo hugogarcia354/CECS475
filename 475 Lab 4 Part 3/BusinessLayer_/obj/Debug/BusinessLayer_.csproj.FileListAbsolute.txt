@@ -1,0 +1,17 @@
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\SchoolDB.mdf
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\SchoolDB_log.ldf
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\BusinessLayer_.exe.config
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\BusinessLayer_.exe
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\BusinessLayer_.pdb
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\475 Lab 4 Part 3.exe
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\EntityFramework.dll
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\475 Lab 4 Part 3.pdb
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\475 Lab 4 Part 3.exe.config
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\EntityFramework.xml
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\obj\Debug\BusinessLayer_.csprojResolveAssemblyReference.cache
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\obj\Debug\BusinessLayer_.csproj.CoreCompileInputs.cache
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\obj\Debug\BusinessLayer_.csproj.CopyComplete
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\obj\Debug\BusinessLayer_.exe
+C:\Users\Hugo G\Downloads\475 Lab 4 Part 3\BusinessLayer_\obj\Debug\BusinessLayer_.pdb
